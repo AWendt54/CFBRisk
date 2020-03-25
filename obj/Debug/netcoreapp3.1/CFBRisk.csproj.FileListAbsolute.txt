@@ -5,9 +5,11 @@ C:\Users\Austin Wendt\source\repos\CFBRisk\bin\Debug\netcoreapp3.1\CFBRisk.runti
 C:\Users\Austin Wendt\source\repos\CFBRisk\bin\Debug\netcoreapp3.1\CFBRisk.dll
 C:\Users\Austin Wendt\source\repos\CFBRisk\bin\Debug\netcoreapp3.1\CFBRisk.pdb
 C:\Users\Austin Wendt\source\repos\CFBRisk\obj\Debug\netcoreapp3.1\CFBRisk.csprojAssemblyReference.cache
-C:\Users\Austin Wendt\source\repos\CFBRisk\obj\Debug\netcoreapp3.1\CFBRisk.csproj.CoreCompileInputs.cache
 C:\Users\Austin Wendt\source\repos\CFBRisk\obj\Debug\netcoreapp3.1\CFBRisk.AssemblyInfoInputs.cache
 C:\Users\Austin Wendt\source\repos\CFBRisk\obj\Debug\netcoreapp3.1\CFBRisk.AssemblyInfo.cs
 C:\Users\Austin Wendt\source\repos\CFBRisk\obj\Debug\netcoreapp3.1\CFBRisk.dll
 C:\Users\Austin Wendt\source\repos\CFBRisk\obj\Debug\netcoreapp3.1\CFBRisk.pdb
 C:\Users\Austin Wendt\source\repos\CFBRisk\obj\Debug\netcoreapp3.1\CFBRisk.genruntimeconfig.cache
+C:\Users\Austin Wendt\source\repos\CFBRisk\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Austin Wendt\source\repos\CFBRisk\obj\Debug\netcoreapp3.1\CFBRisk.csproj.CoreCompileInputs.cache
+C:\Users\Austin Wendt\source\repos\CFBRisk\obj\Debug\netcoreapp3.1\CFBRisk.csproj.CopyComplete

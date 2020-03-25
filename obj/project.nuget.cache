@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "u8mR2mM6v+l81YWBp1NP9Eam8zzI+kPywazvBMyQV28D/tgfvBNHQrl+gehhBAxJ+EZj+9Ko8sC5T2dFr/03rw==",
+  "dgSpecHash": "7cXjSdCoLnKfi+bakGCHvzFR5dWt2ybFH49p+V10qlaoU/+ndy6WrSJ4kekZQD3z2kVNnkoIQMWo9rO9bv7ykg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Austin Wendt\\source\\repos\\CFBRisk\\CFBRisk.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Austin Wendt\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
